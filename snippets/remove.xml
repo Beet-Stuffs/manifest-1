@@ -36,6 +36,7 @@
   <remove-project name="platform/external/setupcompat" />
   <remove-project name="platform/external/tinycompress" />
   <remove-project name="platform/external/wpa_supplicant_8" />
+  <remove-project name="kernel/configs" />
 
   <!-- Frameworks -->
   <remove-project name="platform/frameworks/av"/>
